@@ -31,10 +31,10 @@
 
 # pedir_pizza()
 
-vocales = "aeiou"
+# vocales = "aeiou"
 
-for vocal in vocales:
-    print(vocal.upper())
+# for vocal in vocales:
+#     print(vocal.upper())
 
 # try:
 #     numero_1 = int(input("Dame un numero "))
@@ -44,3 +44,4 @@ for vocal in vocales:
 # else:
 #     total = numero_1 + numero_2
 #     print("La suma es: "+ str(total))
+
